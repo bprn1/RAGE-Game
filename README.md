@@ -8,5 +8,6 @@ In the next stage you are tired after yelling so much, so you do a simple smashi
 random pattern. In the first sub stage the LEDs are green, you press the buttons to match the flashing sequence to move on to the next substage. There are 3 sub stages - Green, Red, Blue, as you progress the lights flash faster and the patterns are longer. If you pass all three sub stages then a triumphant sound plays aloud.
 
 ## Basic Rules:
-Scream into the mic to shatter the varying glass "items". Once all items are broken push A and B buttons to match LEDs flashing lights pattern. 
+Scream into the mic to shatter the varying glass "items". Once all items are broken push A and B buttons to match LEDs flashing lights pattern. As you progress through the stages you gain points! The faster you complete the stage the more points you can gain.
 If successful triumphant music plays, if not Womp Womp.
+
