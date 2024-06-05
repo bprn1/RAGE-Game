@@ -9,4 +9,5 @@ random pattern. In the first sub stage the LEDs are green, you press the buttons
 
 ## Basic Rules:
 Scream into the mic to shatter the varying glass "items". Once all items are broken push A and B buttons to match LEDs flashing lights pattern. 
+As you progress through the stages you gain points! The faster you complete the stage the more points you can gain.
 If successful triumphant music plays, if not Womp Womp.
