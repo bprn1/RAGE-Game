@@ -14,8 +14,7 @@ If you reach 40 points triumphant music plays and a voice tells you "Great Break
 There are three main inputs there is the left button, right button, and switch button.
 The outputs are tone, lights, and speaker library.
 
-The left and right buttons turn off their respective left and right lights. The switch pauses the game, and resumes the game from where the player left off.
-The tone plays when the player moves up or down a stage, along with the speaker either congratulating or resentfully breaking the news to the player. 
+The left and right buttons turn off their respective left and right lights. Though if the wrong button is pressed the game restarts afterwards. The switch pauses the game, and resumes the game from where the player left off. The tone plays when the player moves up or down a stage, along with the speaker either congratulating or resentfully breaking the news to the player. 
 The lights are shown in four ways:
 1. The lights flash in a random pattern, and the player needs to match the random light displayed.
 2. The lights flash green all around counter clock wise to show that the player is moving up to the next level.
